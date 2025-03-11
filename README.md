@@ -20,9 +20,9 @@
 <br>
 📫 How to reach me <br>
 <br>
-<a href="https://www.linkedin.com/in/sourav-satvic/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="3.5%"/></a>
-<a href="https://www.instagram.com/souravkumar.20/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="3.5%"/></a>
-<a href="mailto:sourav120206@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+<a href="https://www.linkedin.com/in/sourav-satvic/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/souravkumar.20/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>
+<a href="mailto:sourav120206@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> </a>
 
 
 
