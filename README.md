@@ -17,13 +17,22 @@
   <a><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
   <a><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
 </p>
-<br>
+<br><br>
+<hr>
+ 📊 Github's Stats
+<br><br>
+
+ ![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sa7vic&show_icons=true&theme=radical)
+<br><br><br><br>
+<hr>
+
 📫 How to reach me <br>
 <br>
 <a href="https://www.linkedin.com/in/sourav-satvic/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/souravkumar.20/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>
 <a href="mailto:sourav120206@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> </a>
-
+<br><br><br><br>
+<hr>
 
 
 
