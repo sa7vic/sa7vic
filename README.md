@@ -22,7 +22,7 @@
 🌐 Languages I Use the Most
 <br><br>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa7vic&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa7vic&layout=compact&theme=radical&cache_seconds=1800)
 <br><br><br><br>
 <hr>
  📊 Github's Stats
