@@ -58,38 +58,18 @@ hobbies:
 
 ### 🚀 Languages
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Golang" />
-      <br>Golang
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,go" alt="Languages" />
+</p>
 
 ### 🛠️ Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,git,github,vscode,linux,mongodb,mysql&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,git" alt="Tools Row 1" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,mongodb,mysql" alt="Tools Row 2" />
+</p>
 
 </div>
 
@@ -144,13 +124,15 @@ hobbies:
 
 **Show some ❤️ by starring some of the repositories!**
 
+<br/><br/>
+
+### Thanks for visiting! 👋
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 <br/>
-
-### Thanks for visiting! 👋
 
 </div>
 
