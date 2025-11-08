@@ -37,7 +37,11 @@ interests:
   - Machine Learning 🤖
   - Data Analysis 📊
   - Open Source 🌟
-learning: ["React", "Next.js", "TensorFlow", "Data Science"]
+learning: 
+  - React
+  - Next.js
+  - TensorFlow
+  - Data Science
 hobbies:
   - Exploring Indian Cuisines 🍛
   - Discovering New Places 🗺️
@@ -95,11 +99,21 @@ hobbies:
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sa7vic&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sa7vic&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&border_radius=10" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sa7vic&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa7vic&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&langs_count=10&border_radius=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sa7vic&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sa7vic&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&border_radius=10" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa7vic&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&langs_count=10&border_radius=10" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa7vic&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph"/>
+</p>
 
 </div>
 
@@ -130,7 +144,13 @@ hobbies:
 
 **Show some ❤️ by starring some of the repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<br/>
+
+### Thanks for visiting! 👋
 
 </div>
 
