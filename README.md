@@ -77,11 +77,16 @@ hobbies:
 
 <div align="center">
 
-## 📊 GitHub Analytic
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa7vic&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph"/>
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=sa7vic&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sa7vic&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=sa7vic&theme=one_dark_pro&hide_border=true)<br/>
+
 
 </div>
 
