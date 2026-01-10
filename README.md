@@ -22,17 +22,20 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> About Me
 
-<img alt="Coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ4aGE5NjJkOG8zYms0bzU0MnpyMnlmZTZrNjZ0MnkxYWR0d3BpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif">
-
-<br/><br/>
-
 </div>
- 
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img alt="Coding" width="250px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ4aGE5NjJkOG8zYms0bzU0MnpyMnlmZTZrNjZ0MnkxYWR0d3BpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif">
+</td>
+<td align="left" width="50%">
+
 ```yaml
 name: Sourav Kumar
 located_in: India 
 current_focus: MERN Stack Development & Data Science
-interests:
+interests: 
   - Web Development 
   - Machine Learning 
   - Data Analysis 
@@ -48,7 +51,9 @@ hobbies:
   - Watching Movies 
 ```
 
-<br/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,20 +61,47 @@ hobbies:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Tech Stack & Tools
 
+<table>
+<tr>
+<td align="center" width="100%">
+
 ### 🚀 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,go" alt="Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,go" alt="Languages" />
 
-### 🛠️ Frameworks & Tools
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,git" alt="Tools Row 1" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,mongodb,mysql" alt="Tools Row 2" />
-</p>
+<tr>
+<td align="center" width="100%">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100%">
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Tools" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
