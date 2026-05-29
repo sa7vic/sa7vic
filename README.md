@@ -1,16 +1,14 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hi there, I'm Sourav
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header&text=Sourav%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Building%20things%20that%20matter&descSize=16&descAlignY=75" width="100%"/>
 
-### Excited to explore new tech! 🚀
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;ML+%26+Data+Science+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Computer+Vision+%7C+LLMs+%7C+Vector+Search;Open+Source+Contributor;Always+Building+Something+Real" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sa7vic&label=Profile%20views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/sa7vic?label=Followers&style=for-the-badge&color=F85D7F&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/sa7vic?label=Stars&style=for-the-badge&color=F8D866&logo=github" alt="Stars"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=sa7vic&label=Profile+Views&color=00B4D8&style=for-the-badge)](https://github.com/sa7vic)
+[![Followers](https://img.shields.io/github/followers/sa7vic?label=Followers&style=for-the-badge&color=00B4D8&logo=github)](https://github.com/sa7vic)
+[![Stars](https://img.shields.io/github/stars/sa7vic?label=Stars&style=for-the-badge&color=FFD700&logo=github)](https://github.com/sa7vic)
 
 </div>
 
@@ -59,45 +57,54 @@ hobbies:
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-### 🚀 Languages
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,go" />
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,go" alt="Languages" />
+</td>
+<td align="center" width="50%">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 
 </td>
 </tr>
-
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-### 🌐 Frontend
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,postgresql,mysql,mongodb" />
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
+</td>
+<td align="center" width="50%">
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
 </td>
 </tr>
-
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" />
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 
 </td>
-</tr>
+<td align="center" width="50%">
 
-<tr>
-<td align="center" width="100%">
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Tools" />
+**Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,render,firebase" />
 
 </td>
 </tr>
@@ -109,16 +116,14 @@ hobbies:
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sa7vic&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph"/>
-</p>
-
-![](https://github-readme-stats.vercel.app/api?username=sa7vic&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sa7vic&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=sa7vic&theme=one_dark_pro&hide_border=true)<br/>
-
+| 🥈 2nd Place | Predictathon — IIT Ropar (Advitiya'26) |
+|:---:|:---|
+| 🥇 1st Place | Tech Trials — JNU SoE EnggQuest |
+| 🏅 Finalist | India Innovates National Hackathon (6,500+ teams) |
+| ⭐ CodeChef | 2-Star rated · Peak: 1474 |
+| 💻 DSA | 400+ problems — LeetCode · CodeChef · Codeforces |
 
 </div>
 
@@ -126,22 +131,43 @@ hobbies:
 
 <div align="center">
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50px"> Connect With Me
+## 📊 GitHub Analytics
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sourav-satvic/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/souravkumar.20/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:sourav.kumar.satvic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/sa7vic" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sa7vic&theme=github-compact&hide_border=true&bg_color=0D1117&color=00B4D8&line=FFD700&point=FFFFFF&area=true&border_radius=10" width="95%" alt="Contribution Graph"/>
 
-<br/></br>
+<br/>
 
-**Show some ❤️ by starring some of the repositories!**
+<img src="https://github-readme-stats.vercel.app/api?username=sa7vic&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa7vic&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 
-### Thanks for visiting! 👋
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=sa7vic&theme=one_dark_pro&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+---
+
+<div align="center">
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-satvic/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://satvic.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourav.kumar.satvic@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sa7vic)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/satvic)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sattvic)
+
+<br/>
+
+*⭐ Star some repos if you find them useful!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
 
