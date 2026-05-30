@@ -57,7 +57,7 @@ hobbies:
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Tech Stack & Tools
 
 <table>
 <tr>
@@ -154,7 +154,7 @@ hobbies:
 
 <div align="center">
 
-## 🤝 Connect
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="50px"> Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-satvic/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://satvic.vercel.app)
